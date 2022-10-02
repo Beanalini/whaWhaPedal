@@ -167,7 +167,7 @@ The  screen shot below shows the API  catagories Get route being tested using In
   - JavaScript
   - Node Js
   - MySQL
-  - Sequalize
+  - Sequelize
   - MySQL
   - Insomnia REST Client
   
