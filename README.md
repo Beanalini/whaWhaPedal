@@ -73,18 +73,18 @@ THEN I am able to successfully create, update, and delete data in my database
 
 [1]  Create the database you by logging into MySQL: 
     
-     u root -p    (you will be promted to enter your mySQL password)
+     -u root -p    (you will be promted to enter your mySQL password)
 
 [2]  Run the schema to create the database:
 
 
     source db/schema.sql
 
-[3] Enter the folowing command to exit MySQL:
+[3] Enter the following command to exit MySQL:
 
     quit
 
-[3] Populate the database with the sample data by running the seed files: 
+[3] Run the seed files to populate the database with the sample data:
 
     npm run seed
 
@@ -92,7 +92,7 @@ To run the e-commerce application enter:
 
     npm start
 
- You can test the APIs  and perform  CRUD operations using  an API REST tool such as Insomnia or Postman.
+ You can test the APIs  and perform  CRUD operations using  an API REST tool such as Insomnia or Postman (Insomnia was used in this project).
 
  Available API routes to test are (id = the number of the item):
 
@@ -135,9 +135,9 @@ Tag:
 
  ## Walk Through Video
 
-   Click on the link below to view a walk-through video testing the the API routes of the e-commerce back end  using Insomnia.
+   Click on the link below to view a walk-through video demonstrating the API routes of the e-commerce back end  application using Insomnia.
 
-   - [Link to E-commerce back end  walk-through video](https://watch.screencastify.com/v/AMgmpWLRPlwIUEI923Pd)
+   - [Link to e-commerce back end  walk-through video](https://watch.screencastify.com/v/AMgmpWLRPlwIUEI923Pd)
 
    
 
