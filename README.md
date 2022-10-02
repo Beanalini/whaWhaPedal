@@ -143,19 +143,25 @@ Tag:
 
   ## Screen Shots
 
-  The following screen shot shows.
+  The following screen shot shows the database being created.
 
  ![creating database](./assets/images/runschema.png)
 
 
-  The  screen shot below shows the the database being seeded with sample data and conecting to the server.
+  The  screen shot below shows the database being seeded with sample data and conecting to the server.
 
   ![seeding database](./assets/images/seedconnect.png)
   
+The  screen shot below shows the API  catagories Get route being tested using Insomnia.
 
+  ![Testing Get categories root](./assets/images/getAllCat.png)
+
+  The  screen shot below shows  the API Post route for products being tested using Insomnia.
+
+  ![Testing create products root](./assets/images/createProduct.png)
 
   ## Tests
-  No tests have been implemented.
+  No code tests have been implemented.
 
   ## Technologies Used
   - JavaScript
