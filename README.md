@@ -170,6 +170,7 @@ The  screen shot below shows the API  catagories Get route being tested using In
   - Sequelize
   - MySQL
   - Insomnia REST Client
+  - dotenv npm package
   
     
  
